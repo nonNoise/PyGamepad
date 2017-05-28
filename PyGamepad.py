@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ############################################################
 #The MIT License (MIT)
-#Copyright (c) 2015 Yuta KItagami
+#Copyright (c) 2017 Yuta KItagami
 #Project:    https://github.com/nonNoise/akilib
 ############################################################
 
