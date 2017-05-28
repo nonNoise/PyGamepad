@@ -9,7 +9,8 @@ Python GettingGamepad
 - git clone https://github.com/nonNoise/PyGamepad.git
 
 - GamePad dreiver pass Check.
-  > ls /dev/input/by-id/
+ 
+> ls /dev/input/by-id/
 
 	usb-0810_usb_gamepad-event-joystick    <- This One.
 
